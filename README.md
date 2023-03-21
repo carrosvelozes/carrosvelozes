@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="250" src="https://s10.gifyu.com/images/MOSHED-2023-3-20-21-12-0.gif">
-
 - 📚 Analysis and Software Development student
 
 - 📫 Reach me at **carrosvelozes@waifu.club**
