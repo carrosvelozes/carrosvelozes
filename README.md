@@ -56,11 +56,3 @@
 </p>
 
 ---
-
-### 🚀 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
