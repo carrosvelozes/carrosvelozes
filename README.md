@@ -26,5 +26,7 @@ Atuar como desenvolvedor contribuindo em projetos reais e evoluindo tecnicamente
 ## Contato
 
 Email: leonardosfmoraes@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/leonardo-moraes-206768386/)
+
 [Meu Portifólio](https://carrosvelozes.github.io/portfolio/#home)
